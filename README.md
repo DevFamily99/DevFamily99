@@ -8,8 +8,8 @@ Web site development is in my blood as I have been working as web developer for 
 ## 🏅 Achievements
 
 -   🥇 **Winner of Coding Competition** at _RCCIIT_ (March 2020)
--   🥈 **1st Runner up at Coding Competition** at _Heritage Institute of Technology_ (September 2021)
--   🥉 **2nd Runner up at Coding Competition** at _GCECT_ (March 2022)
+-   🥈 **1st Runner up at Coding Competition** at _Heritage Institute of Technology_ (September 2018)
+-   🥉 **2nd Runner up at Coding Competition** at _GCECT_ (March 2019)
 
 ## 🛠️ Skills
 
